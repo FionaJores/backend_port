@@ -1,0 +1,252 @@
+{
+  "profile": {
+    "name": "FIONA JORES MARSHAL",
+    "bio": "A Passionate developer",
+    "college": "National Engineering College",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQELGARiFBufrA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730039131696?e=2147483647&v=beta&t=DfMRUjYUZa62j6ga-19Vl2MaK0u6MdmkvtFtvjgt-Hc",
+    "contact": {
+      "phone": "8903408628",
+      "email": "fionajores10@gmail.com"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/fiona-jores-marshal",
+      "github": "https://github.com/fionajores"
+    }
+  },
+  "internships": [
+    {
+      "company": "Webstack Academy",
+      "role": "MERN Stack Intern",
+      "duration": "March 2024 - 4 weeks",
+      "mode": "Online",
+      "domain": "MERN Stack",
+      "description": "Received hands-on training in the MERN stack, actively contributing to building a project under the guidance of the organization.",
+      "technologies": ["MongoDB", "Express.js", "React", "Node.js"],
+      "certificate_link": "https://drive.google.com/file/d/1IY1YKL1tlaPCKXD-kQXfxArVrYSOVCdb/view?usp=drive_link"
+    },
+    {
+      "company": "Interniq",
+      "role": "UI/UX Intern",
+      "duration": "April 2024 - 4 weeks",
+      "mode": "Online",
+      "domain": "UI/UX",
+      "description": "Transformed ideas into sleek, user-friendly designs, sharpening UI/UX skills to create engaging, intuitive interfaces.",
+      "technologies": ["Figma"],
+      "certificate_link": "https://drive.google.com/file/d/1Q6OskkPYoC20hSyZXS0vvaHcls3cA6Pi/view?usp=drive_link"
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Engineering College",
+      "years": "2022-2026",
+      "degree": "B.E Computer Science and Engineering",
+      "cgpa": 8.98
+    },
+    {
+      "institution": "St. Ann’s Matric Hr Sec School",
+      "years": "2021-2022",
+      "level": "Higher Secondary",
+      "board": "Tamil Nadu State Board",
+      "percentage": 93
+    },
+    {
+      "institution": "St. Ann’s Matric Hr Sec School",
+      "years": "2019-2020",
+      "level": "High School",
+      "board": "Tamil Nadu State Board",
+      "percentage": 92
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    },
+    {
+      "skill": "C",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    },
+    {
+      "skill": "JavaScript",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "skill": "React JS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "skill": "SQL",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    },
+    {
+      "skill": "NodeJS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "skill": "HTML",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "skill": "CSS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+      "skill": "Python",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Web Page Designing | IMPELLZ’2023",
+      "description": "Won first place in the web page designing contest at Bannari Amman Institute of Technology during IMPELLZ’2023, with a cash prize of Rs. 3000.",
+      "certificate_link": "https://drive.google.com/file/d/1PkhvxlRtTguUJ5gpG5Tw88MzWa_46SEo/view?usp=sharing"
+    },
+    {
+      "title": "Paper Presentation | Ignition 2025",
+      "description": "Secured 2nd place in Paper Presentation at IGNITION 2025.",
+      "certificate_link": "./assets/paper.jpeg"
+    },
+    {
+      "title": "IEEE Xtreme 18.0 | Global Challenge",
+      "description": "Secured 1350th place globally in the 24-hour coding competition conducted by the IEEE Organization.",
+      "certificate_link": "https://drive.google.com/file/d/1M_f-kztEKDmP8_o8DU5ofjn5EHQhWkjj/view?usp=sharing"
+    }
+  ],
+  "projects": [
+    {
+      "title": "CryptoPlace",
+      "description": "Stay ahead in the crypto world! CryptoPlace brings real-time Bitcoin prices from the CoinGecko API, beautifully visualized in INR, USD, and EUR with interactive charts.",
+      "github_link": "https://fionajores.github.io/Crypto/",
+      "tech_stack": ["React", "Tailwind CSS", "CoinGecko API"]
+    },
+    {
+      "title": "A Tribute to Mani Ratnam",
+      "description": "A cinematic tribute to the legendary filmmaker Mani Ratnam! This elegant website showcases his iconic movies, capturing the essence of his storytelling through a visually stunning interface.",
+      "github_link": " https://fionajores.github.io/Movie-of-ManiRatnam/",
+      "tech_stack": ["HTML", "CSS"]
+    },
+    {
+      "title": "API Testing Tool Portfolio",
+      "description": "Not just a portfolio—it's a developer's playground! This project blends the power of React, Express, and Node.js to create an API testing tool-inspired portfolio that showcases innovation and efficiency.",
+      "github_link": "https://github.com/username/portfolio-api-tool",
+      "tech_stack": ["React", "Express", "Node.js", "JSON"]
+    }
+  ],
+  "certifications": [
+    {
+      "course_name": "DBMS PART -1",
+      "provider": "Infosys Springboard",
+      "certificate_link": "https://drive.google.com/file/d/1GrO-6unV8iq2ApAZ5qWgMuEsV9AvqJR5/view?usp=drive_link"
+    },
+    {
+      "course_name": "Creating API Documentation",
+      "provider": "LinkedIn",
+      "certificate_link": "https://drive.google.com/file/d/1Qeak4tdSs0KmGJDwEr8Fk5dV9UmNsIoH/view?usp=sharing"
+    },
+    {
+      "course_name": "Foundation to CyberSecurity",
+      "provider": "Coursera",
+      "certificate_link": "https://drive.google.com/file/d/1sxwHVYQw2UFsk1Q8tnsijeKbKZAAzCcd/view?usp=drive_link"
+    },
+    {
+      "course_name": "Introduction to Java",
+      "provider": "SoloLearn",
+      "certificate_link": "https://drive.google.com/file/d/1YNH09f-UVS6gF3yNlGDb_9wIRNygcaDZ/view?usp=sharing"
+    }
+  ],
+  "openSourceContributions": [
+    {
+      "project_name": "NecTeckFest-2k25",
+      "role": "Frontend Developer",
+      "technologies": ["React", "Tailwind CSS"],
+      "contribution_link": "https://nec.edu.in/nectechfest2k25/",
+      "description": "I am very happy to work on this project. It provided an excellent opportunity to learn and grow, especially in terms of team collaboration and handling challenging situations effectively.",
+      "image": "./assets/NecTech.png"
+    }
+  ],
+  "teamwork": [
+    {
+      "eventName": "Prestigious Pentathon 2024",
+      "photo": "./assets/ctf.jpg",
+      "teamMembers": [
+        {
+          "name": "Arul N V",
+          "linkedin": "https://www.linkedin.com/in/arulnv"
+        },
+        {
+          "name": "Sounder Raj",
+          "linkedin": "https://www.linkedin.com/in/sounder-raj-4a305a250"
+        },
+        {
+          "name": "Sarikha S",
+          "linkedin": "https://www.linkedin.com/in/sarikhas"
+        },
+        {
+          "name": "Lohesh R S",
+          "linkedin": "https://www.linkedin.com/in/loheshrs"
+        }
+      ],
+      "description": "We secured the 194th position at the prestigious Pentathon 2024..."
+    },
+    {
+      "eventName": "War of UI/UX (Technical Event)",
+      "photo": "./assets/war.jpg",
+      "teamMembers": [
+        {
+          "name": "Petchivaradhan L",
+          "linkedin": "https://www.linkedin.com/in/petchivaradhan-l-106496318"
+        },
+        {
+          "name": "Dinesh Ram",
+          "linkedin": "https://www.linkedin.com/in/dinesh-ram-324066253"
+        },
+        {
+          "name": "Jaya Chithra N",
+          "linkedin": "https://www.linkedin.com/in/jaya-chithra-n"
+        },
+        {
+          "name": "Mydeen Haan",
+          "linkedin": "https://www.linkedin.com/in/mydeen-haan-7a4148274"
+        },
+        {
+          "name": "Ram Balakumaran B",
+          "linkedin": "https://www.linkedin.com/in/ram-balakumaran-b-626480331"
+        }
+      ],
+      "description": "Successfully organized War of UI/UX at NEC Tech Fest 2K25..."
+    },
+    {
+      "eventName": "Web Page Designing | IMPELLZ'2023",
+      "photo": "./assets/web.jpg",
+      "teamMembers": [
+        {
+          "name": "Narmadha G",
+          "linkedin": "https://www.linkedin.com/in/narmadha-g-3aa776256"
+        }
+      ],
+      "description": "🥇 Secured 1st place in Web Page Designing at IMPELLZ'2023..."
+    },
+    {
+      "eventName": "Paper Presentation Ignition 2025",
+      "photo": "./assets/paper.jpeg",
+      "teamMembers": [
+        {
+          "name": "Sibiya Jasemine M",
+          "linkedin": "https://www.linkedin.com/in/sibiya-jasemine-013b09253"
+        }
+      ],
+      "description": "🥈 Secured 2nd place in Paper Presentation at IGNITION 2025..."
+    },
+    {
+      "eventName": "IEEE XTREME 18.0",
+      "photo": "./assets/rank.jpeg",
+      "teamMembers": [
+        {
+          "name": "Jaya Chithra N",
+          "linkedin": "https://www.linkedin.com/in/jaya-chithra-n"
+        }
+      ],
+      "description": "Successfully competed in IEEE Xtreme 18.0 .. with College 1st"
+    }
+  ]
+}  
